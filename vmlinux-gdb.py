@@ -1,0 +1,1 @@
+/home/hanjonguk/linux-5.4.217/scripts/gdb/vmlinux-gdb.py
